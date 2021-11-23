@@ -10,7 +10,7 @@ How to use:
 2.Enter your directory/folder path
 
 3. the program will write the exif data from all kind of pictures files (jpg,JPG,png,PNG,tiff,TIFF)
-4. 
-5. Enjoy :D
+
+4. Enjoy :D
 
 
